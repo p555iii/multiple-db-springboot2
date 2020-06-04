@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.github.cyd.project.multiple.db.AllowBeanDefinitionOverridingEnvironmentProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.cyd.project.multiple.db.DynamicDataSourceConfiguration
